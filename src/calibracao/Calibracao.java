@@ -1,3 +1,5 @@
+package calibracao;
+
 public class Calibracao {
     public static int valorCalibracao(String linha) {
         Character primeiroCaractere = null;
